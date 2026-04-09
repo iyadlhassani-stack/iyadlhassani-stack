@@ -1,16 +1,27 @@
-## Hi there 👋
+# Salut, moi c'est Iyad
 
-<!--
-**iyadlhassani-stack/iyadlhassani-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Venu du génie civil, je me suis retrouvé bien plus dans la tech que sur le terrain.
+J'ai commencé par apprendre Python, les algorithmes de base, SQL, pandas —
+et depuis je creuse l'IA, les LLMs et les systèmes agents.
 
-Here are some ideas to get you started:
+Aujourd'hui je cherche une alternance en école d'ingénieur spécialisée en IA
+pour aller plus loin, plus vite, avec de vrais projets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce sur quoi je travaille
+
+- Agents LLM multi-agents avec orchestration et mémoire
+- RAG — comment ça marche, quand ça foire et pourquoi
+- Fiabilité des systèmes LLM (validation, retry, structured outputs)
+
+## Ce que j'ai buildé
+
+- **fitness-coach-agent** — agent IA coach fitness/nutrition, multi-agent, déployé
+  → https://fitness-coach-agent-nefltzs6ugczebssuayuuh.streamlit.app
+
+## Stack
+
+Python · Groq API · LLaMA · Streamlit · FAISS · HuggingFace · SQL · pandas
+
+## Me contacter
+
+iyadlhassani2020@gmail.com
