@@ -12,6 +12,7 @@ et depuis je creuse l'IA, les LLMs et les systèmes agents.
 - Fiabilité des systèmes LLM (validation, retry, structured outputs)
 
 ## Ce que j'ai buildé
+- Assistant IA conversationnel pour le monitoring et l'optimisation énergétique de bâtiments intelligents, combinant analyse de données capteurs et recherche documentaire sur Snowflake Cortex
 - Un assistant IA conversationnel permettant aux chefs de chantier d'interroger en langage naturel leurs données de suivi (budgets, plannings, rapports) et d'obtenir instantanément des insights sur l'état d'avancement et les risques de leur projet BTP.
 - **fitness-coach-agent** — agent IA coach fitness/nutrition, multi-agent, déployé
   → https://fitness-coach-agent-nefltzs6ugczebssuayuuh.streamlit.app
